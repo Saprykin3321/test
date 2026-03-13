@@ -1,2 +1,1 @@
-hello
-come
+i am not a human
